@@ -1,2 +1,2 @@
 # Shedule
-Shedule bsuir
+NEW Shedule
