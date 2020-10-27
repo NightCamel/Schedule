@@ -32,4 +32,4 @@
 ### 1.5 Процесс получения расписания для группы<a name="1.5"></a>
 **Описание:** Для получения расписания определённой группы пользователю необходимо нажать на "+" и выбрать номер необходимой группы.
 
-![Процесс получения расписания](https://github.com/LiL-Dicky/TaskMaster/blob/master/Диаграммы/Activity/%235.png)
+![Процесс получения расписания](https://github.com/NightCamel/Shedule/blob/master/Diagrams/Activity/%D0%A0%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B.png)
